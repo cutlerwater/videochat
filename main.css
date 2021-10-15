@@ -93,12 +93,12 @@ main {
 
 #footer {
     position: absolute;
-    bottom: 0;
+    bottom: 2;
     left: 0;
     display: none;
     justify-content: center;
     column-gap: 1em;
-    width: 100%;
+    width: 40%;
     height: 100px;
 }
 
@@ -110,11 +110,11 @@ main {
 
 .control-icon {
     display: block;
-    padding: 15px;
+    padding: 25px;
     background-color: #1f1f1f8e;
     height: 30px;
     width: 30px;
-    border-radius: 10px;
+    border-radius: 25px;
 }
 
 
