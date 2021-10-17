@@ -4,7 +4,7 @@ let client = AgoraRTC.createClient({mode:'rtc', codec:"vp8"})
 //#2
 let config = {
     appid:'677d2179c0044f9c9ae90cf4711712be',
-    token:'006677d2179c0044f9c9ae90cf4711712beIACLRHE1ZHM34N6hHciSoEFdGgk0CgC0QNKZ5Zj/LE1ZS2sErzoAAAAAEADjpwysofRqYQEAAQCf9Gph',
+    token:'006677d2179c0044f9c9ae90cf4711712beIAASKCIccNaT94fM/PeYl2MYlMFD5MSekgrThG0Fkc4DQWsErzoAAAAAEADjpwyspIxtYQEAAQCijG1h',
     uid:null,
     channel:'cutlerwater',
 }
